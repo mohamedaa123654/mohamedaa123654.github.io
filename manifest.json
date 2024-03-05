@@ -1,6 +1,6 @@
 {
-    "name": "fittech",
-    "short_name": "fittech",
+    "name": "fit_tech",
+    "short_name": "fit_tech",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
