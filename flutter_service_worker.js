@@ -3,15 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b5c15213d85425f010a24ea2367d2131",
-"assets/AssetManifest.json": "22f45de0a9f303f227e21ae318605291",
-"assets/assets/fonts/ar/cairo/Cairo-Black.ttf": "2374c281704270d2e3008b421ed80885",
-"assets/assets/fonts/ar/cairo/Cairo-Bold.ttf": "19a30f18e32cf8dbb9d0cfcee9e2c01e",
-"assets/assets/fonts/ar/cairo/Cairo-ExtraBold.ttf": "461a6eeaed7944175bd3b03209b6015a",
-"assets/assets/fonts/ar/cairo/Cairo-Light.ttf": "a6793d94c6568946c4755901ef0f04ed",
-"assets/assets/fonts/ar/cairo/Cairo-Medium.ttf": "76f957349a6defbef1b6980bc4c8892a",
-"assets/assets/fonts/ar/cairo/Cairo-Regular.ttf": "94c4feb516a9bd22a5ee417f6e099c93",
-"assets/assets/fonts/ar/cairo/Cairo-SemiBold.ttf": "a29aa6689e17cc4920f865b1e2f206fd",
+const RESOURCES = {"assets/AssetManifest.bin": "a35614815d245918bb4a602550d6de77",
+"assets/AssetManifest.json": "e61e619176a8308ec62e59cac1fa215f",
 "assets/assets/images/auth/Frame.png": "190319594f88f59886bdf7f427c26bd1",
 "assets/assets/images/auth/login_banner.png": "a8ce02446a7e5f25c14fbcd41154193b",
 "assets/assets/images/auth/shadow.svg": "b6cb59a3490b5565b7191b2cae2b17ee",
@@ -83,7 +76,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b5c15213d85425f010a24ea2367d2131
 "assets/assets/json/loading.json": "08112be7c0a33eae2d1c6d13b600bff7",
 "assets/assets/json/splash.json": "01ae3aa120530a5d8972103b09358364",
 "assets/assets/json/success.json": "0b5a8998140fac4a862e4ffce0036b26",
-"assets/FontManifest.json": "f9fce7edba4a53db8951c9b13fad9968",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "87b2e8d34a2fb0ec7b8f63db6bacb2ca",
 "assets/NOTICES": "bb54b154dffa83e7dd4d2e502c8cc147",
 "assets/packages/country_code_picker/flags/ad.png": "796914c894c19b68adf1a85057378dbc",
@@ -437,8 +430,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "b5c15213d85425f010a24ea2367d2131
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5f81e4828fa7d661afe1aa20e7578a26",
-"/": "5f81e4828fa7d661afe1aa20e7578a26",
+"index.html": "3d33be847a0851b071b3019179677838",
+"/": "3d33be847a0851b071b3019179677838",
 "main.dart.js": "c3ae46d069b4265d8db60a4ca338f720",
 "manifest.json": "fbd7d320cbec760559dafd414d26dca2",
 "version.json": "365aaaf85ae98cb1087a026285656dd0"};
